@@ -1,6 +1,6 @@
 <div align="center">
 <p><span style="font-weight:bold">cnuahs</span> | shaunc</p>
-<a href="www.linkedin.com/in/shaun-cloherty" target="_blank" rel="nofollow">
+<a href="https://www.linkedin.com/in/shaun-cloherty" target="_blank" rel="nofollow">
 <picture>
   <!-- Colour specs from https://primer.style/primitives/colors -->
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/c9d1d9">
